@@ -482,7 +482,7 @@ body {
       rgba(255, 255, 255, 0) 0%,
       rgba(0, 0, 0, 0.31) 100%
     ),
-    url(../img/info_pic.webp);
+    url(../img/info_pic.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -717,7 +717,7 @@ body {
 }
 
 .working__img__aside {
-  background-image: url(../img/working_pic.webp);
+  background-image: url(../img/working_pic.jpg);
   width: 870px;
   height: 460px;
   background-position: center center;
@@ -726,7 +726,7 @@ body {
 }
 
 .work-tabs-2 {
-  background-image: url(../img/work-tabs-2.webp);
+  background-image: url(../img/work-tabs-2.jpg);
   width: 870px;
   height: 460px;
   background-position: center center;
@@ -735,7 +735,7 @@ body {
 }
 
 .work-tabs-3 {
-  background-image: url(../img/work-tabs-3.webp);
+  background-image: url(../img/work-tabs-3.jpg);
   width: 870px;
   height: 460px;
   background-position: center center;
@@ -744,7 +744,7 @@ body {
 }
 
 .work-tabs-4 {
-  background-image: url(../img/work-tabs-4.webp);
+  background-image: url(../img/work-tabs-4.jpg);
   width: 870px;
   height: 460px;
   background-position: center center;
@@ -754,7 +754,7 @@ body {
 
 .working__img__aside-none {
   display: none;
-  background-image: url(../img/working_pic.webp);
+  background-image: url(../img/working_pic.jpg);
   width: 668px;
   height: 284px;
   background-position: center center;
@@ -764,7 +764,7 @@ body {
 
 .working-tabs-2-none {
   display: none;
-  background-image: url(../img/work-tabs-2.webp);
+  background-image: url(../img/work-tabs-2.jpg);
   width: 668px;
   height: 284px;
   background-position: center center;
@@ -774,7 +774,7 @@ body {
 
 .working-tabs-3-none {
   display: none;
-  background-image: url(../img/work-tabs-3.webp);
+  background-image: url(../img/work-tabs-3.jpg);
   width: 668px;
   height: 284px;
   background-position: center center;
@@ -784,7 +784,7 @@ body {
 
 .working-tabs-4-none {
   display: none;
-  background-image: url(../img/work-tabs-4.webp);
+  background-image: url(../img/work-tabs-4.jpg);
   width: 668px;
   height: 284px;
   background-position: center center;
